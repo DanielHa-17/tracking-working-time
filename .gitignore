@@ -1,0 +1,17 @@
+node_modules/
+out/
+dist/
+coverage/
+*.log
+.DS_Store
+
+# Signing material and local secrets: never commit these
+*.p12
+*.cer
+*.mobileprovision
+*.provisionprofile
+*.pem
+*.key
+.env
+.env.*
+screenshots/
